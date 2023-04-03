@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Sheshank</h1>
 <h3 align="center">A Fresher with good knowledge on Python Programming,Machine Learning and Web Development.</h3>
+<img align="right" width=400 src="sidephoto.gif" alt="coding">
 
 - 🌱 I’m currently learning **React.js, Node.js and MongoDB**
 
@@ -8,6 +9,7 @@
 - 📫 How to reach me **gottimukkulasaisheshank@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/gottimukkula sai sheshank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gottimukkula sai sheshank" height="30" width="40" /></a>
 <a href="https://instagram.com/saisheshank_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saisheshank_28" height="30" width="40" /></a>
