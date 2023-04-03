@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Sheshank</h1>
 <h3 align="center">A Fresher with good knowledge on Python Programming,Machine Learning and Web Development.</h3>
-<img align="right" width=400 src="sidephoto.gif" alt="coding">
+<img align="right" width=400 src="side photo.gif" alt="coding">
 
 - 🌱 I’m currently learning **React.js, Node.js and MongoDB**
 
